@@ -12,7 +12,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/13629408?s=200&v=4
 source:
   project: https://github.com/Flux159/mcp-server-kubernetes
-  commit: b7f8da38ff53c5b15808198c5f710eae1807eb0c
+  commit: a7d6fd4ec524322edfbe22dc950ee5c56f484305
 run:
   volumes:
     - "{{kubernetes.config_path}}:/home/appuser/.kube/config"
