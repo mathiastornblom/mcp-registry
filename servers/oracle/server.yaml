@@ -14,7 +14,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/93792006?v=4
 source:
   project: https://github.com/samscarrow/oracle-mcp-server
-  commit: 758e33bff0f33951e6572057000932b6fd550c5e
+  commit: eec404ecc39de80855cd4b6f8856a642a547d23a
 config:
   description: Configure the connection to Oracle Database
   secrets:
